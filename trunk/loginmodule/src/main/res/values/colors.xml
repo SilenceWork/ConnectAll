@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gary_frame">#eff1f3</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_gray">#333333</color>
+    <color name="gray_task">#999999</color>
+    <color name="gray_tab_login">#d8d8d8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="title_layout_bg">#f7f7f7</color>
+    <color name="white_gray">#a2a2a2</color>
+</resources>

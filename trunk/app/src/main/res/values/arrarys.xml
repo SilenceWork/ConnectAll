@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<!-- 左横屏补偿y轴的值，需要补偿的机型 -->
+    <string-array name="left_horizontal_compensate_model">
+        <item>HM NOTE</item> <!-- 红米note -->
+        <item>Meizu MX4</item> <!-- 魅族4 pro-->
+        <item>MI 3</item> <!-- 小米3 -->
+        <item>MX4</item> <!-- 魅族4 -->
+        <item>Nexus 6</item>
+        <item>MX3</item> <!-- 魅族3 -->
+        <item>M353</item> <!-- 魅族3 -->
+    </string-array>
+    
+    <!-- 超过y多少度之后才开始进行左横屏补偿，跟机型是一一对应 -->
+    <integer-array name="left_horizontal_compensate_y">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    
+    <!-- 右横屏补偿y轴的值，需要补偿的机型 -->
+    <string-array name="right_horizontal_compensate_model">
+        <item>HM NOTE</item>
+        <item>Meizu MX4</item>
+        <item>MI 3</item>
+        <item>MX4</item>
+        <item>Nexus 6</item>
+        <item>MX3</item>
+        <item>M353</item>
+    </string-array>
+    
+    <!-- 超过y多少度之后才开始进行右横屏补偿，跟机型是一一对应 -->
+    <integer-array name="right_horizontal_compensate_y">
+        <item>30</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+</resources>

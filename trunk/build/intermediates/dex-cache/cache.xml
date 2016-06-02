@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_3b5fb348890400f4d55c780886658b0ba7091abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/okio-1.8.0_cb7559b05485490f6b7791179fcd1e392513ee76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_Services_V2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0e35992f6d2a018c45fab23e0602fecd5e353ad3">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/AMap_Services_V2.3.0_a36df4d8b7e05bc7cf711e54078cd9a39eb3daf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/library-1.0.19_c22b18e268500569387e3fde409c3919d3911382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_87137fd1b58a79181e00bd3dc56895177159aa0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/loginmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="e4da0d6e3824fc42ff053e6cd2a221e65987f5cb">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/trunk-loginmodule-unspecified_a85ac272064af957c229f4e7b03a299b5cbcf14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/netmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="9c94b761937063273efd0261051caf96ecad7b3e">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/trunk-netmodule-unspecified_afc2ac6e68b38b0e2fb2b7a8c6edc02e4269a931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/loginmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e4da0d6e3824fc42ff053e6cd2a221e65987f5cb">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/trunk-loginmodule-unspecified_a85ac272064af957c229f4e7b03a299b5cbcf14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_Services_V2.3.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="0e35992f6d2a018c45fab23e0602fecd5e353ad3">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/AMap_Services_V2.3.0_a36df4d8b7e05bc7cf711e54078cd9a39eb3daf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/okhttp-3.3.1_87137fd1b58a79181e00bd3dc56895177159aa0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/commonutilmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="95f9bc207810e4e3a757699224a3cb70a5926f5a">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/trunk-commonutilmodule-unspecified_d909d5dd3034d6151eeee6702e3c0da1e87b6fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3b5fb348890400f4d55c780886658b0ba7091abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_e579edde27592ee6de7404956e520e0bf440610b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e579edde27592ee6de7404956e520e0bf440610b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/netmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c94b761937063273efd0261051caf96ecad7b3e">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/trunk-netmodule-unspecified_afc2ac6e68b38b0e2fb2b7a8c6edc02e4269a931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/okio-1.8.0_cb7559b05485490f6b7791179fcd1e392513ee76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/umeng-analytics-v5.2.3_f853832478f6f4e6add41ecf5305b59c8205ac69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.3_f853832478f6f4e6add41ecf5305b59c8205ac69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_3DMap_V3.3.1_20160419.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b4f86608ad453f27dfbc7f8a51a2e13f4fc9f2c2">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/AMap_3DMap_V3.3.1_20160419_1042c1d38a32c65d6a652249f01b5376f87dc042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/AMap_Location_v2.3.0_20160112_b32017a61c2647b1a789ba74060975e036bac988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/exploded-aar/trunk/commonutilmodule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="95f9bc207810e4e3a757699224a3cb70a5926f5a">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/trunk-commonutilmodule-unspecified_d909d5dd3034d6151eeee6702e3c0da1e87b6fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/AMap_Location_v2.3.0_20160112_b32017a61c2647b1a789ba74060975e036bac988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/libs/AMap_3DMap_V3.3.1_20160419.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="b4f86608ad453f27dfbc7f8a51a2e13f4fc9f2c2">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/AMap_3DMap_V3.3.1_20160419_1042c1d38a32c65d6a652249f01b5376f87dc042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/library-1.0.19_c22b18e268500569387e3fde409c3919d3911382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.4.0/ffbe55fdb2bb456b1485831706a9eac3300bb6b8/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="21.1.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6477988ea0ffd2cc3270adb217be76f2fe39e299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yujinyang/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.4.0/ffbe55fdb2bb456b1485831706a9eac3300bb6b8/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yujinyang/AndroidStudioProjects/GXDTaoJin_Android/pda_GDTaojin/trunk/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_6477988ea0ffd2cc3270adb217be76f2fe39e299.jar" />
+    </item>
+
+</items>
